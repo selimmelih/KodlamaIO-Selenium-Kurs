@@ -126,4 +126,4 @@ class Odev4:
 
 
 odev4s = Odev4()
-odev4s.urun_goster()
+odev4s.standard_user()
